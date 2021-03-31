@@ -42,6 +42,7 @@ public class NumberGuesser : MonoBehaviour
     {
         guess = Random.Range(minimumNumber, maximumNumber + 1);
         stringedGuess = guess.ToString();
+        Debug.Log(stringedGuess);
         guessText.text = stringedGuess;
     }
 }

@@ -483,7 +483,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Guess a number between 1 and 100
+  m_text: Pick a number between 1 and 100
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e3101afe8c2094e4bae247ce00b6c051, type: 2}
   m_sharedMaterial: {fileID: 4821546711349850998, guid: e3101afe8c2094e4bae247ce00b6c051,
